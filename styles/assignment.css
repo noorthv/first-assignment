@@ -1,0 +1,167 @@
+*{
+    font-family: 'Work Sans',
+}
+
+/* banner styles */
+.banner-title{
+    height: 228px;
+    width: 525px;
+    left: 845px;
+    top: 216px;
+    font-size: 65px;
+    font-weight: 700; 
+    position: absolute;
+    text-align: right;
+    margin-bottom: 24px;
+}
+
+.banner-description{
+    width: 494px;
+    height: 78px;
+    left: 876px;
+    top: 468px;
+    font-weight: 400;
+    font-size: 16px;
+    position: absolute;
+    text-align: right;
+}
+
+.btn{
+    width: 160px;
+height: 64px;
+left: 1210px;
+top: 578px;
+background: #F15B22;
+border-radius: 5px;
+border: 0;
+position: absolute;
+
+font-weight: 600;
+font-size: 20px;
+text-align: right;
+color: #FFFFFF;
+padding: 20px 25px;
+
+}
+
+/* section styles */
+
+.past-failures{
+    margin-top: 40px;
+}
+.section-title{
+position: absolute;
+width: 294.23px;
+height: 94px;
+left: 853px;
+top: 1178px;
+font-weight: 700;
+font-size: 40px;
+line-height: 47px;
+color: #151414;
+    
+}
+.section-description{
+    position: absolute;
+    width: 425px;
+    height: 104px;
+    left: 853px;
+    top: 1300px;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #444343;
+    margin-top: 24px;
+    
+}
+ul{
+    position: absolute;
+    width: 356.55px;
+    height: 178px;
+    left: 818px;
+    top: 1410px;
+
+}
+li{
+        list-style: none
+    }
+
+
+    /* my plans style */
+    .my-plans{
+        position: absolute;
+width: 1141px;
+height: 299.96px;
+left: 230px;
+top: 1792.3px;
+    }
+
+.section-title2 {
+text-align: center;
+font-weight: 700;
+font-size: 40px;
+color: #151414;
+  }
+.plans-container{
+    display: flex;
+    gap: 120px;
+    text-align: center;
+    
+}
+.plan-title{
+    text-align: center;
+    font-weight: 700;
+    font-size: 30px;
+    color: #151414;
+    margin-bottom: 16px;
+}
+    
+.plan-description{
+    font-weight: 500;
+font-size: 25px;
+text-align: center;
+color: #737272;
+}
+
+/* footer */
+
+  .banner1{
+    position: absolute;
+width: 459px;
+height: 182px;
+left: 205px;
+top: 2280px;
+
+  }
+
+  .footer-title{
+
+position: absolute;
+width: 459px;
+height: 94px;
+margin-top: 50px;
+margin-left: 64px;
+font-weight: 700;
+font-size: 40px;
+color: #FFFFFF;
+  }
+  .btn1{
+position: absolute;
+width: 160px;
+height: 64px;
+margin-top: 160px;
+margin-left: 64px;
+background: #FFFFFF;
+border-radius: 5px;
+padding: 20px 36px;
+border: none;
+font-weight: 600;
+font-size: 20px;
+text-align: center;
+color: #F15B22;
+
+  }
+
+ 
+
+ 
